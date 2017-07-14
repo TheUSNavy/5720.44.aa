@@ -1,50 +1,21 @@
-
-CHAPTER 7 ñ USE OF THE INTERNET					7-1
-
-0700  BACKGROUND, AUTHORITY AND RESPONSIBILITIES		7-1
-        1.  Background							7-1
-        2.  Authority								7-1
-        3.  Guidance								7-2
-        4.  Roles and Responsibilities				7-2
-
-0701  DEFINITIONS								7-5
-
-0702  PUBLICLY ACCESSIBLE WORLD WIDE WEB SITES		7-8
-        1.  Authority								7-8
-        2.  Administration of Web sites				7-9
-        3.  Content								7-15
-        4.  Surveys								7-17
-        5.  Public Inquiries Via E-mail				7-18
-        6.  Interactivity							7-18
-     
-0703  INTERNET-BASED CAPABILITIES 					7-18
-        1.  Background							7-18
-        2.  Guidance								7-19
-        3.  EOP									7-19
-        4.  Official Posts to Web Logs and Social
-            Media Sites							7-21
-        5.  Personal Posts to Web Logs and Social
-            Media Sites							7-22
-
-
 7:  USE OF THE INTERNET 
 
 0700  BACKGROUND, AUTHORITY AND RESPONSIBILITIES
 
 1.  Background 
 
-    a.  The World Wide Web (also ìWebî and ìWWWî) is an extremely powerful public information, research, and collaboration tool.  Its use, within these guidelines, is encouraged.  This instruction assigns responsibilities and prescribes policies to ensure appropriate use of the Web to provide public information to global audiences, to allow access for research, and to permit collaboration.
+    a.  The World Wide Web (also ‚ÄúWeb‚Äù and ‚ÄúWWW‚Äù) is an extremely powerful public information, research, and collaboration tool.  Its use, within these guidelines, is encouraged.  This instruction assigns responsibilities and prescribes policies to ensure appropriate use of the Web to provide public information to global audiences, to allow access for research, and to permit collaboration.
 
     b.  The management, including oversight, of all content on official DON publicly accessible Web presences is a PA function. 
 
-    c.  While its inherent global accessibility makes the Web a powerful public information tool and enhances productivity in the conduct of daily business, it also presents a potential risk to DON personnel, assets, and operations if inappropriate information is published.  Threats to the security of Navy and Marine Corps operations and the safety of DON personnel and their families can come in the form of attacks on computer systems, terrorist attacks on units or personnel, and identity theft.  The need to provide public information to the Navyís and Marine Corpsí various audiences and gain efficiencies by conducting certain business processes via the Internet must be balanced with the need to maintain personal safety, operational and information security, protect personally identifiable information and abide by privacy regulations. 
+    c.  While its inherent global accessibility makes the Web a powerful public information tool and enhances productivity in the conduct of daily business, it also presents a potential risk to DON personnel, assets, and operations if inappropriate information is published.  Threats to the security of Navy and Marine Corps operations and the safety of DON personnel and their families can come in the form of attacks on computer systems, terrorist attacks on units or personnel, and identity theft.  The need to provide public information to the Navy‚Äôs and Marine Corps‚Äô various audiences and gain efficiencies by conducting certain business processes via the Internet must be balanced with the need to maintain personal safety, operational and information security, protect personally identifiable information and abide by privacy regulations. 
 
 2.  Authority 
 
-    a.  The Chief of Information (CHINFO) is SECNAVís lead official for the development of policy pertaining to content available on command and activity publicly accessible Internet presences.  
+    a.  The Chief of Information (CHINFO) is SECNAV‚Äôs lead official for the development of policy pertaining to content available on command and activity publicly accessible Internet presences.  
 
     b.  The establishment of a command presence on the publicly accessible World Wide Web remains a command prerogative, consistent with other leadership responsibilities for public communication and in compliance with policies issued in this and related directives.[n1]
-3.  Guidance.  Official DON guidance on publicly accessible Web presences is based on Federal law and DoD policy.  This chapter applies to all DON commands and activities and all DON World Wide Web sites, related technologies, and Internet-based capabilities (IbC) ñ collectively termed ìWeb presencesî ñ designed, developed, procured, or managed by DON activities and or by their contractors.  The policy and guidance on the release of information as outlined in chapter 2 of this instruction pertain to all forms of communication.
+3.  Guidance.  Official DON guidance on publicly accessible Web presences is based on Federal law and DoD policy.  This chapter applies to all DON commands and activities and all DON World Wide Web sites, related technologies, and Internet-based capabilities (IbC) ‚Äì collectively termed ‚ÄúWeb presences‚Äù ‚Äì designed, developed, procured, or managed by DON activities and or by their contractors.  The policy and guidance on the release of information as outlined in chapter 2 of this instruction pertain to all forms of communication.
 
     a.  Only material that is approved for public release may appear on a publicly accessible Web presence.
 
@@ -78,7 +49,7 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
         (1) Ensure all information residing on the command and activity publicly accessible Web presence is reviewed by the command and activity PA representative and is accurate, factual and is appropriate for viewing by a worldwide audience.  If no PAO is assigned, commands and activities must refer to those at the next appropriate level in their chain of command.  Information not cleared for public release by proper authority must either be immediately removed or placed on a restricted-access site.  Per Assistant Secretary of Defense Networks and Information Integration guidance, domain restriction alone is not a sufficient block for access. 
 
-        (2) Develop a local process for the approval of information posted on command or activity publicly accessible Web presences.  At a minimum, this process shall include review by the commandís PAO, and or other designated personnel. 
+        (2) Develop a local process for the approval of information posted on command or activity publicly accessible Web presences.  At a minimum, this process shall include review by the command‚Äôs PAO, and or other designated personnel. 
 
         (3) Contracted personnel are not authorized to publish content to a command or activity publicly accessible Web presence unless a DON official with the authority for public release of information approves and controls the content.
 
@@ -106,7 +77,7 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
 0701  DEFINITIONS.  The following are accepted definitions used in this chapter.
 
-1.  DON Access-restricted Web site.  ìAccess restrictedî is defined as being isolated from the Web by means of a user identification and password scheme or by common access card (CAC).  Domain and or Internet Protocol (IP) restriction is not an acceptable method of access control (see definition of publicly-accessible Web site).  May be either internal-facing or external-facing. 
+1.  DON Access-restricted Web site.  ‚ÄúAccess restricted‚Äù is defined as being isolated from the Web by means of a user identification and password scheme or by common access card (CAC).  Domain and or Internet Protocol (IP) restriction is not an acceptable method of access control (see definition of publicly-accessible Web site).  May be either internal-facing or external-facing. 
 
 2.  Advertisement and Advertising.  For the purposes of this instruction, material or information, regardless of media, disseminated in exchange for any remuneration or intended to promote any service, facility, or product of non-U.S. Government entities.  (Adapted from section 399(b) of title 47, U.S.C.)
 
@@ -114,7 +85,7 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
 4.  DON World Wide Web site.  Any Web site or Web service operated by or for DON, funded with DON appropriations, or operated by DON employees as part of their official duties or by contracted employees as part of contracted services to the Department.  
 
-5.  External-facing Web site.  A Web site that is available via the Internet to users at any location.  ìExternal-facingî is synonymous with public-facing, but not publicly accessible.  External-facing Web sites may be either access-controlled or publicly-accessible.  Respective examples of each are www.nko.navy.mil (Navy Knowledge Online (NKO)), which is external-facing but not publicly accessible, and www.navy.mil, which is both external facing and publicly accessible.
+5.  External-facing Web site.  A Web site that is available via the Internet to users at any location.  ‚ÄúExternal-facing‚Äù is synonymous with public-facing, but not publicly accessible.  External-facing Web sites may be either access-controlled or publicly-accessible.  Respective examples of each are www.nko.navy.mil (Navy Knowledge Online (NKO)), which is external-facing but not publicly accessible, and www.navy.mil, which is both external facing and publicly accessible.
 
 6.  EOP.  Official PA activities conducted on non-DoD sites on the Internet (e.g., Facebook, Twitter).  These presences function as extensions of, not in lieu of, official DON Web sites.
 
@@ -124,11 +95,11 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
 9.  Internal-facing Web site.  Available only to users on the same local area network/wide area network (LAN/WAN) that hosts the Web site.  Includes access available during virtual private network (VPN) sessions.  Internal-facing Web sites are access-controlled by default of the network access requirement(s) and may or may not require additional access controls such as user identification and password, or CAC credentials.  Internal-facing Web sites often serve as interfaces to intranets.  An example would be any Web site on the SECRET Internet Protocol Router Network (SIPRNet).
 
-10.  Non-public Information.  Information generally not available to the public, obtained in the course of one's official DoD duties or position, which has not been cleared and authorized for release to the public or would normally not be releasable under FOIA (section 552 of title 5, U.S.C.), if requested.  The term "non-public information" includes "inside information," "proprietary information," and "source selection information,î controlled unclassified information, and other categories of information that are legitimately to be withheld from the public.  [Subpart 2635.703 of title 5, CFR; DoD Directive 5400.07, Freedom of Information Act, of 2 January 2008; DoD 5400.7-R DoD Freedom of Information Act Program of 4 September 1998; DoD 5200.1-R, Information Security Program, of 14 January 1997; and sections 3.104-4 and 3.104-5 of Federal Acquisition Regulations provide detailed information.
+10.  Non-public Information.  Information generally not available to the public, obtained in the course of one's official DoD duties or position, which has not been cleared and authorized for release to the public or would normally not be releasable under FOIA (section 552 of title 5, U.S.C.), if requested.  The term "non-public information" includes "inside information," "proprietary information," and "source selection information,‚Äù controlled unclassified information, and other categories of information that are legitimately to be withheld from the public.  [Subpart 2635.703 of title 5, CFR; DoD Directive 5400.07, Freedom of Information Act, of 2 January 2008; DoD 5400.7-R DoD Freedom of Information Act Program of 4 September 1998; DoD 5200.1-R, Information Security Program, of 14 January 1997; and sections 3.104-4 and 3.104-5 of Federal Acquisition Regulations provide detailed information.
 
 11.  Official DoD Information.  All information that is in the custody and control of the DoD, relates to information in the custody and control of the Department, or was acquired by DoD employees as part of their official duties or because of their official status within the Department. 
 
-12.  Personal Information.  Information about an individual that identifies, links, relates, or is unique to, or describes him or her (e.g., a social security number; age; military rank; civilian grade; marital status; race; salary; home or office phone numbers; other demographic, biometric, personnel, medical, and financial information, etc).  Such information also is known as personally identifiable information (e.g., information that can be used to distinguish or trace an individualís identity, such as his or her name; social security number; date and place of birth; motherís maiden name; and biometric records, including any other personal information that is linked or linkable to a specified individual.  Name, rank and rate and duty station are releasable.
+12.  Personal Information.  Information about an individual that identifies, links, relates, or is unique to, or describes him or her (e.g., a social security number; age; military rank; civilian grade; marital status; race; salary; home or office phone numbers; other demographic, biometric, personnel, medical, and financial information, etc).  Such information also is known as personally identifiable information (e.g., information that can be used to distinguish or trace an individual‚Äôs identity, such as his or her name; social security number; date and place of birth; mother‚Äôs maiden name; and biometric records, including any other personal information that is linked or linkable to a specified individual.  Name, rank and rate and duty station are releasable.
 
 13.  Publicly-accessible Web site.  An external-facing Web site available without access controls and to an unlimited audience.  Additionally, Web sites with only IP or domain restrictions are considered to be publicly-accessible Web sites for purposes of DoD policy and regulatory compliance.  The ease by which these restrictions may be bypassed makes them an unacceptable method of access control.  Only information authorized for public release may appear on a publicly-accessible Web site.
 
@@ -144,25 +115,25 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
 1.  Authority.  The establishment of a command or activity Web site on the publicly accessible World Wide Web remains a command prerogative, consistent with other leadership responsibilities for public communication.
 
-    a.  All DON Web sites must have a clearly articulated purpose, approved by the commander, and supporting the commandís and or activityís mission.
+    a.  All DON Web sites must have a clearly articulated purpose, approved by the commander, and supporting the command‚Äôs and or activity‚Äôs mission.
 
     b.  Only unclassified material that is approved for public release may appear on a publicly accessible Web presence.
 
     c.  Command and Activity Web sites.  All Web sites published by or under the aegis DON commands or activities are considered official and remain subject to this instruction. 
 
-    d.  All Department of the Navy Web sites shall reside in a ìnavy.milî or ìmarines.milî domain except as follows:
+    d.  All Department of the Navy Web sites shall reside in a ‚Äúnavy.mil‚Äù or ‚Äúmarines.mil‚Äù domain except as follows:
 
-        (1) Institutions of higher education, specifically the United States Naval Academy, the Naval War College, and the Naval Postgraduate School, and the Marine Corps Command and Staff College, may reside in an ì.eduî domain.
+        (1) Institutions of higher education, specifically the United States Naval Academy, the Naval War College, and the Naval Postgraduate School, and the Marine Corps Command and Staff College, may reside in an ‚Äú.edu‚Äù domain.
 
-        (2) Web sites for Navy Recruiting and Marine Corps Recruiting may reside on a ì.comî domain.
+        (2) Web sites for Navy Recruiting and Marine Corps Recruiting may reside on a ‚Äú.com‚Äù domain.
 
 
-		   (3) Web sites for Navy Morale Welfare and Recreation (MWR) and Marine Corps Community Service (MCCS) may reside on a ì.comî domain in accordance with this instruction, DoD Instruction 1015.10 and DoD Instruction 8550.01.
+		   (3) Web sites for Navy Morale Welfare and Recreation (MWR) and Marine Corps Community Service (MCCS) may reside on a ‚Äú.com‚Äù domain in accordance with this instruction, DoD Instruction 1015.10 and DoD Instruction 8550.01.
 
-        (4) Electronic commerce Web sites operated for the Navy Exchange Command, Morale Welfare and Recreation by Commander, Navy Installations Command, and Marine Corps Community Service (MCCS) may reside on a ì.comî domain.
+        (4) Electronic commerce Web sites operated for the Navy Exchange Command, Morale Welfare and Recreation by Commander, Navy Installations Command, and Marine Corps Community Service (MCCS) may reside on a ‚Äú.com‚Äù domain.
 [nh4]
 
-    e.  A designation of ìUnofficialî is not recognized for any DON Web site.  Any Web site created by an employee of, member of, or person under contract to the DON, including those Web sites done under any contract or agreement, for any entity of the DON is subject to this instruction.
+    e.  A designation of ‚ÄúUnofficial‚Äù is not recognized for any DON Web site.  Any Web site created by an employee of, member of, or person under contract to the DON, including those Web sites done under any contract or agreement, for any entity of the DON is subject to this instruction.
 
 2.  Administration of Web Sites
 
@@ -178,7 +149,7 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
         (3) Links to: 
 
-            (a) A tailored privacy policy on the home page.  All references to the privacy policy shall state:  ìPlease read our Privacy Policy notice.î  Overt warning signs or other graphics, such as the ìskull and crossbonesî or ìcloak and dagger,î or wording indicating danger or warning, are specifically forbidden.  The format and content of the tailored privacy policy notice will be based on that contained in the DoD Memorandum Web Site Administration Policies and Procedures, 25 November 1998, (updated 11 January, 2002), part V, paragraph 4.  Web sites will not require the viewer to agree with any policy.
+            (a) A tailored privacy policy on the home page.  All references to the privacy policy shall state:  ‚ÄúPlease read our Privacy Policy notice.‚Äù  Overt warning signs or other graphics, such as the ‚Äúskull and crossbones‚Äù or ‚Äúcloak and dagger,‚Äù or wording indicating danger or warning, are specifically forbidden.  The format and content of the tailored privacy policy notice will be based on that contained in the DoD Memorandum Web Site Administration Policies and Procedures, 25 November 1998, (updated 11 January, 2002), part V, paragraph 4.  Web sites will not require the viewer to agree with any policy.
 
             (b) The Navy's official Web site, http://www.navy.mil, and or the Marine Corps' official Web site http://www.marines.mil.
 
@@ -190,23 +161,23 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
             (f) A hyperlink to http://www.suicidepreventionlifeline.org/Veterans/Default.aspx accessed by clinking on the icon available at https://pa-net.navy.mil/eRoomReq/Files/chinfo/PANET/013b94c/Lifeline.JPG.
 
-            (g) Commands are encouraged to link to the U.S. Navyís ìFrequently Asked Questionsî page on the official U.S. Navy Web site at http://www.navy.mil.  Questions concerning the U.S. Navy or the USMC as a whole shall also be directed to http://www.navy.mil or http://www.marines.mil , as appropriate.
+            (g) Commands are encouraged to link to the U.S. Navy‚Äôs ‚ÄúFrequently Asked Questions‚Äù page on the official U.S. Navy Web site at http://www.navy.mil.  Questions concerning the U.S. Navy or the USMC as a whole shall also be directed to http://www.navy.mil or http://www.marines.mil , as appropriate.
 
     d.  In addition to article 0702, paragraph 2c(3)(e) above, Navy echelon 2 and Marine Corps senior commands will incorporate into their Web site an electronic reading room to contain and serve documents most frequently requested through FOIA.
 
-    e.  Web sites must not contain any written information or display any logo indicating the Web site is best viewed with any specific Web browser(s); or, that the Web site has been selected as a recommended or featured site by any organization; or, point to any particular search engines or recommend any commercial software.  Web sites developed and or maintained by contractors may not include the contractorís name nor may they link to the contractor's Web site, either in the normal view of the page or in any source code.
+    e.  Web sites must not contain any written information or display any logo indicating the Web site is best viewed with any specific Web browser(s); or, that the Web site has been selected as a recommended or featured site by any organization; or, point to any particular search engines or recommend any commercial software.  Web sites developed and or maintained by contractors may not include the contractor‚Äôs name nor may they link to the contractor's Web site, either in the normal view of the page or in any source code.
 
-    f.  Web sites will not provide commercial software or links to commercial software except in those cases where the software is unique and required for viewing documents provided within the Web siteís purpose.  In these cases, only a text link directly to the vendorsí download Web page is permitted.  The use of corporate logos is prohibited.
+    f.  Web sites will not provide commercial software or links to commercial software except in those cases where the software is unique and required for viewing documents provided within the Web site‚Äôs purpose.  In these cases, only a text link directly to the vendors‚Äô download Web page is permitted.  The use of corporate logos is prohibited.
 
-    g.  Command Web sites may display the logo of a social networking service only if linking directly to the commandís presence on that service and the commandís presence is registered with www.navy.mil/socialmedia for Navy commands or www.marines.mil/socialmedia for Marine Corps commands.
+    g.  Command Web sites may display the logo of a social networking service only if linking directly to the command‚Äôs presence on that service and the command‚Äôs presence is registered with www.navy.mil/socialmedia for Navy commands or www.marines.mil/socialmedia for Marine Corps commands.
 
     h.  Web sites will not display any logos or graphics for events, issues, or commemorations unless that event, issue, or commemoration is command sponsored (i.e., a command event), or is approved by SECDEF or SECNAV.  Examples of approved events, issues, or commemorations that are national in scope include, but are not limited to, Navy or Marine Corps birthdays, POW/MIA Day, and Federal secular holidays.  
 
     i.  Web sites will not display any commercial page counters. 
 
-    j.  Web sites shall not display personnel lists, "roster boards,î organizational charts, or command staff directories which show individualsí names, individualsí phone numbers or e-mail addresses which contain the individualís name.  
+    j.  Web sites shall not display personnel lists, "roster boards,‚Äù organizational charts, or command staff directories which show individuals‚Äô names, individuals‚Äô phone numbers or e-mail addresses which contain the individual‚Äôs name.  
 
-        (1) However, general telephone numbers and non-personalized e-mail addresses for commonly-requested resources, services, and contacts, without individualsí names, are acceptable.
+        (1) However, general telephone numbers and non-personalized e-mail addresses for commonly-requested resources, services, and contacts, without individuals‚Äô names, are acceptable.
 
         (2) The names, telephone numbers, and personalized, official e-mail addresses of command and activity PA personnel and or those designated by the commander as command spokespersons may be included in otherwise non-personalized directories, etc. 
 
@@ -216,19 +187,19 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
         (5) Given that the academic environment has professional requirements for maintenance of academic standing, the professional academic staff of Navy institutions of higher education (the U.S. Naval Academy, the Naval Postgraduate School, the Naval War College, and the Marine Corps Command and Staff College), but not the support staff, may be identified by name, specialty, etc., as required to maintain academic standing.  Additionally, the faculty may interact with the public as part of the process of recruiting students, and thus some identifying information is appropriate.  However, such information may include only professional information and not information on their families, place of birth, hobbies, etc., or other information not related to their academic credentials.
 
-            (a) Included official portraits will remain restricted to the institutionsí senior leadership, department heads and academic faculty.  Portraits must be head and shoulders only.
+            (a) Included official portraits will remain restricted to the institutions‚Äô senior leadership, department heads and academic faculty.  Portraits must be head and shoulders only.
 
             (b) For support staff and other departments, contact information will only be generic, e.g., Admissions Office, phone XXX-XXX-XXXX, e-mail:  admissions@institution.edu and will contain no personal information.
 
-        (6) Biographies and official portraits of flag officers, commanders, commanding officers, officers in command, executive officers or deputies, the civilian equivalents of those officers just listed, and command master chief petty officers and senior enlisted advisors or Marine Corps master gunnery sergeants or sergeants major may be posted to command and activity Web sites.  However, biographies published on publicly accessible Web sites will not include date of birth, age, current residential street address, nor any information about family members.  Place of birth, if desired to be included, will be presented as ìÖ is a native ofÖî 
+        (6) Biographies and official portraits of flag officers, commanders, commanding officers, officers in command, executive officers or deputies, the civilian equivalents of those officers just listed, and command master chief petty officers and senior enlisted advisors or Marine Corps master gunnery sergeants or sergeants major may be posted to command and activity Web sites.  However, biographies published on publicly accessible Web sites will not include date of birth, age, current residential street address, nor any information about family members.  Place of birth, if desired to be included, will be presented as ‚Äú‚Ä¶ is a native of‚Ä¶‚Äù 
 
         (7) Due to the unique community relations nature of the missions of the U.S. Navy Flight Demonstration Squadron, the U.S. Navy and Marine Bands and their component units, and fleet bands, portraits and biographies of the command or unit members are permitted, providing such biographies are in compliance with other sections of this chapter.  In each case, official portraits should be just head and shoulders.
 
         (8) To avoid the appearance of official endorsement, Web sites will not link to non-government, commercial-entity sites except as follows:
 
-            (a) The U.S. Navy and USMC official Web sites (http://www.navy.mil and http://www.marines.mil) may link to federally chartered, military-related organizations.  Commands desiring to link to military-related organizationsí Web sites will do so only by linking to the appropriate pages on the U.S. Navy or USMC official Web sites. 
+            (a) The U.S. Navy and USMC official Web sites (http://www.navy.mil and http://www.marines.mil) may link to federally chartered, military-related organizations.  Commands desiring to link to military-related organizations‚Äô Web sites will do so only by linking to the appropriate pages on the U.S. Navy or USMC official Web sites. 
 
-            (b) Links to appropriate private sector non-commercial sites by the Bureau of Medicine, the Chief of Chaplains, or DON institutions of higher education, may be made for purposes of additional educational resources, provided those links support the commandís core mission and avoid the appearance of official endorsement.
+            (b) Links to appropriate private sector non-commercial sites by the Bureau of Medicine, the Chief of Chaplains, or DON institutions of higher education, may be made for purposes of additional educational resources, provided those links support the command‚Äôs core mission and avoid the appearance of official endorsement.
 
            (c) Linking disclaimers will not be used when linking to the Web site of a local, State, or Federal Government entity.
 
@@ -240,19 +211,19 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
             (g) Links will not be made to the home pages of Web sites of private sector news media, magazines, publishers, or radio or television stations.  However, direct links may be made to specific articles about the DON command or activity in traditional and online media when such linking would be reasonably seen as not an endorsement of the entity to which the link is made.
 
-            (h) Echelon 2 acquisition commands may link to Web pages of partners in industry provided those Web pages pertain solely and directly to a command program and those links do not constitute nor appear to constitute an endorsement of that partner and or its products or services.  Links may not be made to the partnerís main corporate Web site.
+            (h) Echelon 2 acquisition commands may link to Web pages of partners in industry provided those Web pages pertain solely and directly to a command program and those links do not constitute nor appear to constitute an endorsement of that partner and or its products or services.  Links may not be made to the partner‚Äôs main corporate Web site.
 
             (i) Publicly accessible Web sites shall not provide links to content beyond the established access point to restricted sites, so as to not reveal the internal structure.
 
-            (j) Links from a command Web site to the commandís presence on a social networking service are permitted and may be indicated through the use of social networking service logo icons.  However, the link must be clearly identified as a link to the commandís presence.
+            (j) Links from a command Web site to the command‚Äôs presence on a social networking service are permitted and may be indicated through the use of social networking service logo icons.  However, the link must be clearly identified as a link to the command‚Äôs presence.
 
             (k) Links from a command Web site to a registered Navy or Marine Corps NEPA site are permitted.[nh7]
 
-        (9) Web sites using frames will not link to any external content within the window of a frame nor will any Web site prohibit -- through the use of coding -- the visitor to return to a previously visited Web site (i.e., curtailing the use of the ìbackî button on the browser).
+        (9) Web sites using frames will not link to any external content within the window of a frame nor will any Web site prohibit -- through the use of coding -- the visitor to return to a previously visited Web site (i.e., curtailing the use of the ‚Äúback‚Äù button on the browser).
 
         (10) No materials or services may be advertised for sale or be sold via a command Web site.  This includes command memorabilia, ball caps, etc.
 
-        (11) Morale, welfare, and recreation (MWR) and Marine Corps community services (MCCS) activities are an integral part of nearly every DON installation and therefore must have a presence on the installationís Web site.  This presence shall only contain general information regarding the installation MWR and MCCS programs such as patron eligibility, services offered, location of offices, telephone numbers, and hours of operation.  Commercial sponsorship or advertisements shall not be displayed on publicly accessible MWR and MCCS Web presences.  Links to additional information regarding MWR-sponsored events hosted on non-ì.milî domains shall not be displayed on publically accessible MWR and MCCS Web presences, but may be included on pages accessibly only to authorized MWR and MCCS patrons.
+        (11) Morale, welfare, and recreation (MWR) and Marine Corps community services (MCCS) activities are an integral part of nearly every DON installation and therefore must have a presence on the installation‚Äôs Web site.  This presence shall only contain general information regarding the installation MWR and MCCS programs such as patron eligibility, services offered, location of offices, telephone numbers, and hours of operation.  Commercial sponsorship or advertisements shall not be displayed on publicly accessible MWR and MCCS Web presences.  Links to additional information regarding MWR-sponsored events hosted on non-‚Äú.mil‚Äù domains shall not be displayed on publically accessible MWR and MCCS Web presences, but may be included on pages accessibly only to authorized MWR and MCCS patrons.
 
         (12) Information that is under the purview of and posted to other military Web sites will not be duplicated but may be referenced or otherwise linked.
 
@@ -264,11 +235,11 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
     c.  Content Restrictions.  Specific Web site content restrictions include:
 
-        (1) Classification of Material on Public Web Sites.  Web sites will not include classified material, ìFor Official Use Onlyî information, proprietary information, or information that could enable the recipient to infer this type of information.  This includes, but is not limited to, lessons learned or maps with specific locations of sensitive units, ship battle orders, threat condition profiles, etc., activities or information relating to ongoing criminal investigations into terrorist acts, force protection levels, specific force protection measures being taken or number of personnel involved, Plans of the Day, or Plans of the Month.  When it is necessary to gain release authority from a senior in the chain of command, subordinate commands will submit material for clearance only after it has been reviewed and necessary amendments made to the fullest capability of the submitting command. 
+        (1) Classification of Material on Public Web Sites.  Web sites will not include classified material, ‚ÄúFor Official Use Only‚Äù information, proprietary information, or information that could enable the recipient to infer this type of information.  This includes, but is not limited to, lessons learned or maps with specific locations of sensitive units, ship battle orders, threat condition profiles, etc., activities or information relating to ongoing criminal investigations into terrorist acts, force protection levels, specific force protection measures being taken or number of personnel involved, Plans of the Day, or Plans of the Month.  When it is necessary to gain release authority from a senior in the chain of command, subordinate commands will submit material for clearance only after it has been reviewed and necessary amendments made to the fullest capability of the submitting command. 
 
         (2) Identification of Family Members.  Web sites will not identify immediate family members of DON personnel by name, including in imagery captions, except for the spouses of senior leadership who are participating in public events such as ship naming, commissioning, etc.  Furthermore, family member information will not be included in any online biographies. 
 
-        (3) Copyrighted and Trademarked Material.  Web sites shall not contain any material that is copyrighted or under trademark without the written permission of the copyright or trademark holder.  The material must relate directly to the commandís primary mission and must be clearly marked that the material is under copyright and by whom.  Works prepared by DON personnel as part of their official duties and posted to a command Web site may not be copyrighted, nor may a DON Web site itself be copyrighted.
+        (3) Copyrighted and Trademarked Material.  Web sites shall not contain any material that is copyrighted or under trademark without the written permission of the copyright or trademark holder.  The material must relate directly to the command‚Äôs primary mission and must be clearly marked that the material is under copyright and by whom.  Works prepared by DON personnel as part of their official duties and posted to a command Web site may not be copyrighted, nor may a DON Web site itself be copyrighted.
 
         (4) Use of Maps.  Web sites will not display the locations of operational commands or force protection facilities on installation maps.  The location of medical, retail, personnel support, and recreation facilities are permitted.  The use or copying of commercial and or copyrighted maps is prohibited.
 
@@ -300,7 +271,7 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
  
     a.  DON commands and activities may allow visitors the ability to query the command via e-mail on their Web sites.  Commands and activities are cautioned that establishing and maintaining this interactivity can be extremely labor-intensive.  
 
-    b.  Public queries for information should be linked or directed to the command or activity PA office.  Queries should be handled consistent with other written requests for information.  Responses shall discuss only those issues within the commandís cognizance and shall not violate the release of information policy.
+    b.  Public queries for information should be linked or directed to the command or activity PA office.  Queries should be handled consistent with other written requests for information.  Responses shall discuss only those issues within the command‚Äôs cognizance and shall not violate the release of information policy.
 
 6.  Interactivity.  DON commands may not operate unmoderated news groups, bulletin boards, or any other unrestricted access posting services on command Web sites.  This specifically prohibits a publicly accessible, interactive Web site that supports automatic posting of information submitted by personnel other than those authorized by the command to post information. (See also article 0703.)
 
@@ -310,7 +281,7 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
 2.  Guidance  
 
-    a.  Commands and activities shall designate administrators for official use of IbC.  The administrator is responsible for ensuring postings to the IbC comply with content policy.  Commands permitting postings by others must ensure the site contains an approved user agreement delineating the types of information unacceptable for posting to the site and must remove such unacceptable content.  At a minimum, the DONís current social media user agreement is required.  This agreement can be found at the Navy Social Media Resources page, accessed at www.chinfo.navy.mil.
+    a.  Commands and activities shall designate administrators for official use of IbC.  The administrator is responsible for ensuring postings to the IbC comply with content policy.  Commands permitting postings by others must ensure the site contains an approved user agreement delineating the types of information unacceptable for posting to the site and must remove such unacceptable content.  At a minimum, the DON‚Äôs current social media user agreement is required.  This agreement can be found at the Navy Social Media Resources page, accessed at www.chinfo.navy.mil.
 
     b.  Commands and activities must develop written local procedures for the approval and release of all information posted on command and activity official use of IbC.
 
@@ -320,13 +291,13 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
 3.  EOP 
 
-    a.  An EOP may not serve as the DON entityís primary Web presence and must link to the primary Web presence; the command or activityís official Web site.
+    a.  An EOP may not serve as the DON entity‚Äôs primary Web presence and must link to the primary Web presence; the command or activity‚Äôs official Web site.
 
     b.  Content may be posted only by those authorized by the commanding officer or designated representative(s) to release official information to the public.  This may include an individual posting under the supervision of those authorized to release official information.  Contracted personnel are not  authorized to publish content to a command or activity EOP unless a DON official with the authority for public release of information approves and controls the content. 
 
     c.  All content posted by a DON entity remains subject to this instruction and must comply with DON public information policies.  (See chapter 2.)
 
-    d.  Administrators of EOP permitting postings by others (e.g., fans) must ensure the site contains an approved user agreement delineating the types of information that are unacceptable for posting to the site and must remove unacceptable content.  At a minimum, DONís social media user agreement with a conspicuous link thereto is required.  This agreement can be found at the Navy Social Media Resources page which can be accessed at www.chinfo.navy.mil.  This page also provides additional information about official external presence policy, guidance, training, and recommended best practices.
+    d.  Administrators of EOP permitting postings by others (e.g., fans) must ensure the site contains an approved user agreement delineating the types of information that are unacceptable for posting to the site and must remove unacceptable content.  At a minimum, DON‚Äôs social media user agreement with a conspicuous link thereto is required.  This agreement can be found at the Navy Social Media Resources page which can be accessed at www.chinfo.navy.mil.  This page also provides additional information about official external presence policy, guidance, training, and recommended best practices.
 
     e.  Commands and activities shall not publish and shall prohibit content within the following categories:
 
@@ -388,9 +359,9 @@ CHAPTER 7 ñ USE OF THE INTERNET					7-1
 
 References:
 
-29 U.S.C. ß794d 
+29 U.S.C. ¬ß794d 
 
-44 U.S.C. ß3501
+44 U.S.C. ¬ß3501
 
 OMB Memo M-05-04 of 17 December 2004
 
@@ -404,7 +375,7 @@ OMB Circular A-130 (Management of Federal Information Resources)
 
 For DoD Issuances, please see http://www.dtic.mil/whs/directives/index.html
 
-DoD Policy Memorandum, ìWeb Site Administration,î 7 December 1998(http://www.defense.gov/webmasters/policy/dod_web_policy_12071998_with_amendments_and_corrections.aspx)
+DoD Policy Memorandum, ‚ÄúWeb Site Administration,‚Äù 7 December 1998(http://www.defense.gov/webmasters/policy/dod_web_policy_12071998_with_amendments_and_corrections.aspx)
 
 DoD Instruction 1015.10 of 6 July 2009
 
@@ -416,7 +387,7 @@ DoD Instruction 8550.01 of 11 September 2012
 
 For all SECNAV and OPNAV instructions, please see the Department of the Navy Issuances Web site at http://doni.daps.dla.mil/
 
-Department of the Navy Chief Information Officer/Chief of Information Joint Memorandum, ìDepartment of the Navy Web Presence Policy ñ The Registration, Compliance of, and Investment in, All Unclassified Web Sites and Uniform Resource Locators (URL)  (http://www.doncio.navy.mil/PolicyView.aspx?ID=577)
+Department of the Navy Chief Information Officer/Chief of Information Joint Memorandum, ‚ÄúDepartment of the Navy Web Presence Policy ‚Äì The Registration, Compliance of, and Investment in, All Unclassified Web Sites and Uniform Resource Locators (URL)  (http://www.doncio.navy.mil/PolicyView.aspx?ID=577)
 
 SECNAVINST 5211.5E
 
