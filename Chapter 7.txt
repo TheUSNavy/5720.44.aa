@@ -1,4 +1,4 @@
-7:  USE OF THE INTERNET 
+﻿7:  USE OF THE INTERNET 
 
 0700  BACKGROUND, AUTHORITY AND RESPONSIBILITIES
 
@@ -103,13 +103,15 @@
 
 13.  Publicly-accessible Web site.  An external-facing Web site available without access controls and to an unlimited audience.  Additionally, Web sites with only IP or domain restrictions are considered to be publicly-accessible Web sites for purposes of DoD policy and regulatory compliance.  The ease by which these restrictions may be bypassed makes them an unacceptable method of access control.  Only information authorized for public release may appear on a publicly-accessible Web site.
 
-14.  Terms of Service.  Terms used to describe agreements made between the DoD and a third party IbC provider.  
+14.  Terms of Service.  Terms used to describe agreements made between the DoD and a third party IbC provider.
 
-15.  Web Presences.  Defined as to include World Wide Web sites, Web logs (Blogs) and IbC such as, but not limited to, SNS, and video or audio distribution applications.
+15.  Terms of Use. Terms used to describe agreements made between the DoD and the user of the DoD managed IbC.
 
-16.  Web site.  A set of interconnected pages, services, and associated Internet media generally located on the same server, available at a URL (i.e., a Web address that begins with the protocol indicator of http or https), and prepared and maintained as a collection of information by a person, group, or organization.  Normally, a Web site is differentiated from a Web page in that a Web site is designated by the name to the left of a slant.  A Web page is to the right.  As example, http://www.site.navy.mil/admindept. 
+16.  Web Presences.  Defined as to include World Wide Web sites, Web logs (Blogs) and IbC such as, but not limited to, SNS, and video or audio distribution applications.
 
-17.  World Wide Web or Web.  The subset of the Internet capable of providing the public with user-friendly graphics-based multi-media access to information on the Internet.  It is the most popular means for storing and linking Internet-based information in all multi-media formats.  Navigation is accomplished through a set of linked documents that may reside on the same computer or on computers located almost anywhere else in the world.
+17.  Web site.  A set of interconnected pages, services, and associated Internet media generally located on the same server, available at a URL (i.e., a Web address that begins with the protocol indicator of http or https), and prepared and maintained as a collection of information by a person, group, or organization.  Normally, a Web site is differentiated from a Web page in that a Web site is designated by the name to the left of a slant.  A Web page is to the right.  As example, http://www.site.navy.mil/admindept. 
+
+18.  World Wide Web or Web.  The subset of the Internet capable of providing the public with user-friendly graphics-based multi-media access to information on the Internet.  It is the most popular means for storing and linking Internet-based information in all multi-media formats.  Navigation is accomplished through a set of linked documents that may reside on the same computer or on computers located almost anywhere else in the world.
 
 0702  PUBLICLY ACCESSIBLE WORLD WIDE WEB SITES
 
